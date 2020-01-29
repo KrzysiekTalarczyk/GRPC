@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Statistic.Application\Statistic.Application.csproj" />
+    <ProjectReference Include="..\Statistic.Domain\Statistic.Domain.csproj" />
+  </ItemGroup>
+
+
+</Project>
